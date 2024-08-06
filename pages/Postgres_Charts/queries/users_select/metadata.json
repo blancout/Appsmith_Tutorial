@@ -2,7 +2,7 @@
   "pluginType": "DB",
   "pluginId": "postgres-plugin",
   "unpublishedAction": {
-    "name": "Query1",
+    "name": "users_select",
     "datasource": {
       "name": "users",
       "pluginId": "postgres-plugin",
@@ -37,7 +37,7 @@
     "userPermissions": [],
     "createdAt": "2024-08-06T14:38:11Z"
   },
-  "id": "Postgres_Charts_Query1",
+  "id": "Postgres_Charts_users_select",
   "deleted": false,
   "gitSyncId": "66b13635a49808063280ea3b_5c7108d7-8fea-4c0d-9124-318c7f8a30e1"
 }
