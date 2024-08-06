@@ -1,0 +1,2 @@
+--Update public."users" set "country" = 'Argentina' where "country" = 'null'
+SELECT "country", count("name") FROM public."users" GROUP BY "country" ORDER BY "count" ASC;

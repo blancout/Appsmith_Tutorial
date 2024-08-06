@@ -1,0 +1,30 @@
+{
+  "pages": [
+    {
+      "id": "Postgres_Charts",
+      "isDefault": true
+    },
+    {
+      "id": "MongoDB_Movies",
+      "isDefault": false
+    }
+  ],
+  "viewMode": false,
+  "appIsExample": false,
+  "unreadCommentThreads": 0,
+  "unpublishedApplicationDetail": {
+    "appPositioning": {
+      "type": "FIXED"
+    },
+    "navigationSetting": {}
+  },
+  "color": "#C7F3E3",
+  "icon": "bar-graph",
+  "unpublishedCustomJSLibs": [],
+  "publishedCustomJSLibs": [],
+  "evaluationVersion": 2,
+  "applicationVersion": 2,
+  "collapseInvisibleWidgets": true,
+  "isManualUpdate": false,
+  "deleted": false
+}

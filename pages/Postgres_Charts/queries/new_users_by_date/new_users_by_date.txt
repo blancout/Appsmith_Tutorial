@@ -1,0 +1,4 @@
+SELECT date("created_at"), count("name") 
+FROM public."users"
+GROUP BY date("created_at")
+ORDER BY date("created_at") ASC;
